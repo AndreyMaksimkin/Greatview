@@ -1,6 +1,6 @@
  Pod::Spec.new do |s|
   s.name             = 'Greatview'
-  s.version          = '1.0'
+  s.version          = '1.2'
   s.summary          = 'Some summary 2.'
  
   s.description      = <<-DESC
